@@ -17,7 +17,7 @@
 
 - :seedling: Exploring networking and DevOps.
 
-- :zap: In my free time, I play desktop wargames and tend my garden.
+- :zap: In my free time, I play tabletop wargames and tend my garden.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jack_Hughes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jack-hughes-16662613/)
 
