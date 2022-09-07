@@ -13,7 +13,7 @@
 
 ### Hi there 👋
 
-- :telescope: I’m working as a jack-of-all-trades Magento wrangler contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a jack-of-all-trades Magento wrangler on an e-commerce site.
 
 - :seedling: Exploring networking and DevOps.
 
