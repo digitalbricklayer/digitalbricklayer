@@ -13,7 +13,7 @@
 
 ### Hi there 👋
 
-- :telescope: I’m working as a jack-of-all-trades Magento wrangler on an e-commerce site.
+- :telescope: I’m currently looking for work as a software developer. If you need some C# work done, please get in touch.
 
 - :seedling: Exploring networking and DevOps.
 
