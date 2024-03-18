@@ -13,9 +13,7 @@
 
 ### Hi there 👋
 
-- :telescope: I’m currently looking for work as a software developer. If you need some C# work done, please get in touch.
-
-- :seedling: Exploring networking and DevOps.
+- :telescope: I am an ex-software developer with a professional career that lasted for around 30 years. I worked professionally in C, C++, C#, SQL, Python, PROLOG and shell script.
 
 - :zap: In my free time, I play [tabletop wargames](https://battlelinesdrawn.com/) and tend my garden.
 
