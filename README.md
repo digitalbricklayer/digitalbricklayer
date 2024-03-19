@@ -13,7 +13,11 @@
 
 ### Hi there 👋
 
-- :telescope: I am an ex-software developer with a professional career that lasted for around 30 years. I worked professionally in C, C++, C#, SQL, Python, PROLOG and shell script.
+- :telescope: I am an ex-software developer with a professional career that spanned around 30 years.
+
+- :sparkles: I worked professionally in C, C++, C#, SQL, Python, PROLOG, Ansible and shell script.
+
+- :moneybag: I am currently re-training to be a bookkeeper
 
 - :zap: In my free time, I play [tabletop wargames](https://battlelinesdrawn.com/) and tend my garden.
 
