@@ -16,7 +16,7 @@
 
 - :moneybag: I am currently re-training to be a bookkeeper
 
-- :zap: In my free time, I play [tabletop wargames](https://battlelinesdrawn.com/) and tend my garden.
+- :zap: In my free time, I play [tabletop wargames](https://leedsnightowls.com/) and tend my garden.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jack_Hughes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jack-hughes-16662613/)
 
